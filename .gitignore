@@ -1,6 +1,6 @@
 logs/
 **/node_modules/
-**/gulp_patrones/
+**/temp-portfolio-1/
 .idea/
 **/.DS_Store
 */.DS_Store
