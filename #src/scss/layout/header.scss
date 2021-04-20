@@ -1,4 +1,14 @@
 //====================================================================================================
+.header {
+
+  &__content {
+    max-width: 1052px;
+    padding: 0px 10px;
+    margin: 0px auto;
+  }
+}
+
+
 .header__menu {
   padding: 10px 0;
   height: 82px;
