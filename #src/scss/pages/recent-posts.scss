@@ -1,0 +1,39 @@
+.recent-posts {
+  padding: 25px 0px 30px 0px;
+
+  background: #EDF7FA;
+}
+
+.recent-posts__container {}
+
+.recent-posts__header {
+  display: flex;
+}
+
+.recent-posts__title {
+  flex: 1 1 auto;
+  padding: 0px 20px 0px 0px;
+
+  font-size: 22px;
+}
+
+.recent-posts__view-all {
+  white-space: nowrap;
+  font-size: 16px;
+  line-height: 23px;
+  color: #00A8CC;
+}
+
+.recent-posts__items {}
+
+.recent-posts__column {}
+
+.recent-posts__item {}
+
+.recent-post {}
+
+.recent-post__title {}
+
+.recent-post__info {}
+
+.recent-post__text {}
