@@ -103,9 +103,10 @@ body {
 //@import "components/spollers";
 //@import "components/popup";
 @import "layout/header";
-@import "pages/hello";
-@import "pages/recent-posts";
-@import "pages/works";
+@import "blocks/hello";
+@import "blocks/recent-posts";
+@import "blocks/works";
+@import "blocks/blog";
 
 @import "layout/footer";
 //</ПОДКЛЮЧЕНИЕ ФАЙЛОВ СТИЛЕЙ СТРАНИЦ И ЭЛЕМЕНТОВ>====================================================================================================
